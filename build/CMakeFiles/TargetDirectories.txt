@@ -1,0 +1,3 @@
+/mnt/c/Project/simpp/SimppleRefrigerationSystem/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Project/simpp/SimppleRefrigerationSystem/build/CMakeFiles/edit_cache.dir
+/mnt/c/Project/simpp/SimppleRefrigerationSystem/build/CMakeFiles/SimppleRefrigerationSystem.dir
